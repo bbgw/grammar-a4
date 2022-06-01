@@ -1,1 +1,0 @@
-../antlr/antlr4/LexBasic.g4

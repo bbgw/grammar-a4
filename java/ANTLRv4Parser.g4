@@ -1,1 +1,0 @@
-../antlr/antlr4/ANTLRv4Parser.g4
