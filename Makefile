@@ -8,7 +8,7 @@ grun := java -Xmx500M -cp "/usr/local/lib/antlr-4.9.2-complete.jar:$CLASSPATH" o
 
 filedir := ./antlr/antlr4/
 out_java := ./java
-out_python := ./py
+out_python := ./a4py
 
 options := -visitor
 

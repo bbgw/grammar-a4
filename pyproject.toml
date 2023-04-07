@@ -13,8 +13,7 @@ dependencies = [
 ]
 
 [tool.flit.module]
-name = "py"
+name = "a4py"
 
 [tool.flit.sdist]
 exclude = ["datagen/.idea/", "datagen/.git/", "datagen/datagen.iml", "datagen/.DS_Store"]
-include = ["py"]
