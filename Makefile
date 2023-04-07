@@ -1,4 +1,4 @@
-.DEFAULT_GOAL := all
+.DEFAULT_GOAL := py
 
 all : py ja _compile
 .PHONY: prepy py ja all
